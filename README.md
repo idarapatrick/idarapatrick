@@ -1,8 +1,9 @@
-<h4>Hi there 👋. I'm passionate about promoting efficiency to better the lives of everyone. </h4> 
+<img align="center" width="100%" alt="" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47l5icj43w6teud1nai61jbko11mgusccnt3lp27hs&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<br>
+<h4>Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>. I'm passionate about promoting efficiency to better the lives of everyone. </h4> 
 <h4> I am a Software Engineer specializing in Data Science and Machine Learning. </h4>
-<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
+
 
 <p><a href="https://www.linkedin.com/in/idara-patrick/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:essienidara67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <br>
