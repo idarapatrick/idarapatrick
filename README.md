@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... Practice and determination makes tech easier.
 -->
- ## 🔭
+
+<p>
+  ## 🔭
 - I'm currently working on projects to better my understanding on how to derive insights from data and build predictive models, while also contributing to open-source projects.
  ## 🌱
 - Check out my Hashnode blog where I write technical articles on Data Science and Machine Learning -> [Blog](https://idarapatrick.hashnode.dev/)
 ## 📫 
 You can reach me through my [Email](mailto:essienidara67@gmail.com) or send me a request to connect on [LinkedIn](https://www.linkedin.com/in/idara-patrick/).
+
+</p>
 
 <p align="center"> 
     <!-- Languages -->
@@ -29,9 +33,6 @@ You can reach me through my [Email](mailto:essienidara67@gmail.com) or send me a
     </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.java.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/></code> 
     </a> 
     <a href="https://www.javascript.com" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
@@ -48,15 +49,6 @@ You can reach me through my [Email](mailto:essienidara67@gmail.com) or send me a
     </a> 
     <a href="https://opencv.org/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://nextjs.org/" target="_blank"> 
-        <code><img src="https://nextjs.org/static/favicon/favicon.ico" alt="nextjs" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank"> 
-        <code><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwindcss" width="35" height="35"/></code> 
     </a>
     <!-- Tools -->
     <a href="https://git-scm.com/" target="_blank"> 
