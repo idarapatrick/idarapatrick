@@ -6,17 +6,17 @@ I am a Software Engineer specializing in Data Science and Machine Learning, pass
 <p><a href="https://www.linkedin.com/in/idara-patrick/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:essienidara67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 
 ## Facts About Me
-<br>
+
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
 - 🔭 I'm working on projects to better understand how to derive insights from data and build predictive models while contributing to open-source projects.
 - 🧮 Expanding my knowledge in Computer Vision
 - 🤔 Actively looking for Data Science internship opportunities
-- 🌱 Check out my Hashnode blog where I write technical articles on Data Science and Machine Learning -> [Blog](https://idarapatrick.hashnode.dev/)
+- 🌱 Check out my Hashnode blog where I write technical articles on Data Science and Machine Learning -> [Hashnode Blog](https://idarapatrick.hashnode.dev/)
 - 📫 Reach me at: [Gmail](mailto:essienidara67@gmail.com)
 
 ## languages, Libraries/Frameworks
-<p align="right">
+<p align="left">
     <!-- Languages -->
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
@@ -31,7 +31,7 @@ I am a Software Engineer specializing in Data Science and Machine Learning, pass
   <br>
 
 ## Libraries and Frameworks
-<p align="right">
+<p align="left">
     <a href="https://pytorch.org/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
     </a> 
