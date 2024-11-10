@@ -1,6 +1,5 @@
 ### Hi there 👋 My name is Idara Patrick. I'm passionate about promoting efficiency to better the lives of everyone.
 ### I am a Software Engineer who specializes in Machine Learning. 
-<br>
 <!--
 **idarapatrick/idarapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,19 +49,6 @@ You can reach me through my [Email](mailto:essienidara67@gmail.com) or send me a
     <a href="https://opencv.org/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
     </a>
-    <!-- Tools -->
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://code.visualstudio.com" target="_blank">
-        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
-    </a> 
-    <!-- Cloud & Databases -->
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://aws.amazon.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
-    </a>
+   
 </p>
 <br>
