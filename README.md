@@ -1,31 +1,24 @@
-### Hi there 👋 My name is Idara Patrick. I'm passionate about promoting efficiency to better the lives of everyone.
-### I am a Software Engineer who specializes in Machine Learning. 
-<!--
-**idarapatrick/idarapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Hi there 👋. I'm passionate about promoting efficiency to better the lives of everyone. </h4> 
+<h4> I am a Software Engineer specializing in Data Science and Machine Learning. </h4>
+<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
 
-Here are some ideas to get you started:
+<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>
 
-- 🔭 I’m currently working on ... Some Data science and machine learning projects on microsoft azure.
-- 🌱 I’m currently learning ... How to build machine learning models
-- 👯 I’m looking to collaborate on ... Data Science and Machine Learning projects
-- 🤔 I’m looking for help with ... Resources to help me learn about Generative AI
-- 💬 Ask me about ...
-- 📫 How to reach me: ... through my email: essienidara67@gmail.com
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... Practice and determination makes tech easier.
--->
+<p><a href="https://www.linkedin.com/in/idara-patrick/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:essienidara67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
+<br>
 
 <p>
-  ## 🔭
-- I'm currently working on projects to better my understanding on how to derive insights from data and build predictive models, while also contributing to open-source projects.
- ## 🌱
+ <h3>🔭 </h3>
+- I'm working on projects to better understand how to derive insights from data and build predictive models while contributing to open-source projects.
+<h3> 🌱 </h3>
 - Check out my Hashnode blog where I write technical articles on Data Science and Machine Learning -> [Blog](https://idarapatrick.hashnode.dev/)
-## 📫 
+<h3> 📫 </h3>
 You can reach me through my [Email](mailto:essienidara67@gmail.com) or send me a request to connect on [LinkedIn](https://www.linkedin.com/in/idara-patrick/).
 
 </p>
 
 <p align="center"> 
+  <h4>Languages</h4>
     <!-- Languages -->
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
@@ -36,7 +29,9 @@ You can reach me through my [Email](mailto:essienidara67@gmail.com) or send me a
     <a href="https://www.javascript.com" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
     </a> 
+  <br>
     <!-- Frameworks / Libraries -->
+  <h4>Frameworks / Libraries</h4>
     <a href="https://pytorch.org/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
     </a> 
