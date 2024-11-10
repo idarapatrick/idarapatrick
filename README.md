@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Idara Patrick, and I am a budding Machine Learning Engineer with a lot of enthusiasm for technology.
-![photo_2023-08-05_01-01-13](https://github.com/idarapatrick/idarapatrick/assets/63080981/ca8be2ff-f7b4-4645-bfed-56d34dc78039)
-
+### Hi there 👋 My name is Idara Patrick. I'm passionate about promoting efficiency to better the lives of everyone.
+### I am a Software Engineer who specializes in Machine Learning. 
+<br>
 <!--
 **idarapatrick/idarapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +15,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... Practice and determination makes tech easier.
 -->
- # 🔭
- I'm currently working on some Data Science and Machine Learning projects on microsoft Azure. I have succcessfully published my first Data Science project which is available on the DataCamp workspace. You can access it here:
-https://app.datacamp.com/workspace/w/b8c83753-4c05-4fd5-bff1-d52ee62bc807/edit
+ ## 🔭
+- I'm currently working on projects to better my understanding on how to derive insights from data and build predictive models, while also contributing to open-source projects.
+ ## 🌱
+- Check out my Hashnode blog where I write technical articles on Data Science and Machine Learning -> [Blog](https://idarapatrick.hashnode.dev/)
+## 📫 
+You can reach me through my [Email](mailto:essienidara67@gmail.com) or send me a request to connect on [LinkedIn](https://www.linkedin.com/in/idara-patrick/).
 
- # 🌱
- I'm currently learning how to build machine learning models and I'm looking to collaborate on Data Science and Machine Learning projects.
-
-# 📫 
-You can reach me through my email: essienidara67@gmail.com or send me a request to connect on linkedin @Idara Patrick.
+<p align="center"> 
+    <!-- Languages -->
+    <a href="https://www.python.org" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.java.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.javascript.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
+    </a> 
+    <!-- Frameworks / Libraries -->
+    <a href="https://pytorch.org/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://pytorch-lightning.readthedocs.io/en/stable/" target="_blank"> 
+        <code><img src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/lightning.png" alt="pytorch-lightning" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://www.tensorflow.org" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://opencv.org/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://nextjs.org/" target="_blank"> 
+        <code><img src="https://nextjs.org/static/favicon/favicon.ico" alt="nextjs" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://tailwindcss.com/" target="_blank"> 
+        <code><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwindcss" width="35" height="35"/></code> 
+    </a>
+    <!-- Tools -->
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://code.visualstudio.com" target="_blank">
+        <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="35" height="35"/></code>
+    </a> 
+    <!-- Cloud & Databases -->
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
+    </a> 
+    <a href="https://aws.amazon.com" target="_blank"> 
+        <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
+    </a>
+</p>
+<br>
