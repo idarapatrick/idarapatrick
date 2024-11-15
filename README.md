@@ -7,8 +7,6 @@ I am a Software Engineer specializing in Data Science and Machine Learning, pass
 
 ## Facts About Me
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
-
 - 🔭 I'm working on projects to better understand how to derive insights from data and build predictive models while contributing to open-source projects.
 - 🧮 Expanding my knowledge in Computer Vision
 - 🤔 Actively looking for Data Science internship opportunities
