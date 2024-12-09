@@ -9,7 +9,7 @@ I am a Software Engineer specializing in Data Science and Machine Learning, pass
 
 - 🔭 I'm working on projects to better understand how to derive insights from data and build predictive models while contributing to open-source projects.
 - 🧮 Expanding my knowledge in Computer Vision
-- 🤔 Actively looking for Data Science internship opportunities
+- 🤔 Actively looking for Data Science and Backend Development internship opportunities
 - 🌱 Check out my Hashnode blog where I write technical articles on Data Science and Machine Learning -> [Hashnode Blog](https://idarapatrick.hashnode.dev/)
 - 📫 Reach me at: [Gmail](mailto:essienidara67@gmail.com)
 
